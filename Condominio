@@ -1,0 +1,28 @@
+condominio-react
+│
+├── public
+│   ├── index.html
+│   ├── manifest.json
+│   └── ...
+│
+├── src
+│   ├── components
+│   │   ├── Login.js
+│   │   ├── Dashboard.js
+│   │   ├── Edificio.js
+│   │   ├── Departamento.js
+│   │   └── ...
+│   │
+│   ├── services
+│   │   ├── authService.js
+│   │   ├── edificioService.js
+│   │   └── ...
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
